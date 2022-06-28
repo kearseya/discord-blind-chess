@@ -6,13 +6,13 @@ Base code was stolen (sorry can't remember find where from), but been modified t
 
 ## Install 
 
-Install cairo https://www.cairographics.org/download/
-Install stockfish https://stockfishchess.org/
+Install cairo https://www.cairographics.org/download/ 
+Install stockfish https://stockfishchess.org/ 
 ```
 pip install -r requirements.txt
 ```
-Edit path variables for your PC/server
-(Add token to bottom of file if using the standalone,
+Edit path variables for your PC/server 
+(Add token to bottom of file if using the standalone, 
 token from https://discord.com/developers/applications)
 
 ## Commands
