@@ -35,3 +35,7 @@ Commands:
 
 Type -help command for more info on a command.
 ```
+
+# aws-server-bot
+
+Use discord to turn on and off ec2 instances, cheaper than leaving shared server on, but still lets everyone access server whenever they want.
